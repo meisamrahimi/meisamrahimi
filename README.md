@@ -1,14 +1,34 @@
-<!--
-**meisamrahimi/meisamrahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# MEISAM RAHIMI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Python Developer | AI & Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Learning+Python;Exploring+Artificial+Intelligence;Building+My+Future+With+Code" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🐍 Learning Python
+- 🤖 Interested in Artificial Intelligence
+- 🧠 Exploring Machine Learning
+- 🚀 Building projects and improving every day
+
+---
+
+## ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+### CODE • LEARN • BUILD • REPEAT
+
+</div>
