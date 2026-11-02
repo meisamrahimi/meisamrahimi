@@ -32,6 +32,21 @@
 ### CODE • LEARN • BUILD • REPEAT
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+🔹 **Python Projects**  
+*Coming Soon...*
+
+🔹 **Machine Learning Projects**  
+*Coming Soon...*
+
+</div>
+
 ---
 
 ## 📊 GitHub Analytics
