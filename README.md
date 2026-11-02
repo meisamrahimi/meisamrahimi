@@ -32,3 +32,14 @@
 ### CODE • LEARN • BUILD • REPEAT
 
 </div>
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meisamrahimi&show_icons=true&theme=tokyonight&hide_border=true&title_color=bc8cff&icon_color=bc8cff" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meisamrahimi&layout=compact&theme=tokyonight&hide_border=true&title_color=bc8cff" width="48%" />
+
+</div>
