@@ -33,3 +33,15 @@
 
 </div>
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/card?username=meisamrahimi&bg=080D18&text=EAF6FF&title_color=00A8FF&icon_color=00F5FF&border_color=087FC0&custom_title=GITHUB%20STATS" width="600" alt="GitHub Stats"/>
+
+<br/>
+
+<img src="https://ghstats.dev/api/langs?username=meisamrahimi&layout=bar&max_langs=6&bg=080D18&text=EAF6FF&title_color=00A8FF&icon_color=00F5FF&border_color=087FC0&custom_title=TOP%20LANGUAGES" width="600" alt="Top Languages"/>
+
+</div>
